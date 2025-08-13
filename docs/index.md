@@ -65,9 +65,9 @@ In the presentation you can see some of the things we have made at Fab Lab Puebl
 
 ??? info "More things"
 
-	If you like to see some more worke I have done please visit my [Fab Academy site](https://fabacademy.org/archives/2015/sa/students/cortes.aristarco/index.html)
+	If you like to see some more worke I have done please visit my ![Fab Academy site](https://fabacademy.org/archives/2015/sa/students/cortes.aristarco/index.html)
 
-# So, I invite you to follow my journey
+# So, I hope you have a joyful journey
 
 
 <p style="clear: both;"></p>
