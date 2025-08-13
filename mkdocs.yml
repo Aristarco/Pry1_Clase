@@ -1,23 +1,19 @@
 
-site_url: https://aristarco.github.io/Proyectos1/
-repo_url: https://github.com/aristarco/Proyectos1
 theme:
   name: material
 nav:
   - Inicio: index.md
 
   # Replace the text below to customize your site
-site_name: Proyectos_1
+site_name: Clase de Proyectos 1
 site_description: Clase de Proyectos 1 UIA Puebla
 site_author: aristarco
 copyright: Copyright 2024 Aristarco Cortés - Creactive Commons Attribution Non-commercial
 
-site_url: https://aristarco.github.io/Proyectos1/
-repo_url: https://github.com/aristarco/Proyectos1
+site_url: https://aristarco.github.io/Pry1_Clase/
+repo_url: https://github.com/aristarco/Pry1_Clase
 
-site_url: https://class.textile-academy.org/2025/aristarco-cortes/
-repo_url: https://gitlab.fabcloud.org/academany/fabricademy/2025/students/aristarco-cortes
-repo_name: fabricademy/2025/aristarco-cortes
+repo_name: Clase_proyectos_1/2025/aristarco-cortes
 
 extra:
   social:
@@ -27,8 +23,8 @@ extra:
       link: https://instagram.com/aristarco_dixit
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/aristarco.cortes
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/aristarco.dixit
+    - icon: fontawesome/brands/linkedin
+      link: h-cortes/linkedin.com/aristarco-cortes
 
 theme:
   # The name of the theme, needs to match your requirements.txt file
