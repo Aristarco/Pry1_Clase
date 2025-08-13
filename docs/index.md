@@ -1,12 +1,74 @@
-# Assignments
+
+# Bienvenido a la clase de Proyectos 1
+
+## En esta página encontrás todas las clases y los archivos, tareas e imágenes vistas en clase
+
+## Quién soy 
+
+Aristarco es ingeniero mecánico electricista con estudios de administración y aspirante a polímata. Tiene experiencia laboral de más de 30 años en industria, gobierno y universidades. Es emprendedor, enamorado de los procesos de fabricación, egresado del Fab Academy y fanático de construir cosas. Fue director del Instituto de Diseño e Innovación Tecnológica IDIT, casa del Fab Lab Puebla, el espacio maker más grande del mundo. Hoy es responsable de impulsar proyectos y emprendimiento en el IDIT.
+Hi, I am Aristarco and this is my journey through the 2024/25 Fabricademy universe. I am participating at Fab Lab Puebla in Mexico, the largest makerspace in the world inside the Design, Innovation, and Tech Institute at Iberoamericana University in the beautiful city of Puebla, Mexico.
+
+
+
+## Clases
+
 
 
 |||
 |---|---|
-|[![](../images/week01/IDE1.png){ width=300 } <br>Project&nbsp;management](./week01.md)|[![](../images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./week02.md)|
-|[![](../images/week03/Recicling.jpg){ width=300 } <br>Circular Fashion](./week03.md)|[![](../images/week04/Designer.jpeg){ width=300 } <br>BioChromes](./week04.md)|
-|[![](../images/week05/Etextileworkshop.jpeg){ width=300 } <br>E-textiles](./week05.md)|[![](../images/Week06/Parametric_design.png){ width=300 } <br>Computational Couture ](./week06.md)|
-|[![](../images/week07/Biomaterial.jpeg){ width=300 } <br>BioFabricating Materials ](./week07.md)|[![](../images/week08/Soft_Robot.jpg){ width=300 } <br>Soft robotics](./week08.md)|
-|[![](../images/week09/IRIS-VAN-HERPEN-SQ-TEXINTEL.jpg){ width=300 } <br>Wearables](./week09.md)|[![](../images/week10/Scafold2.png){ width=300 } <br>Textile Scaffold ](./week10.md)|
-|[![](../images/week11/Machine.png){ width=300 } <br>Open Source Hardware](./assignments/week11.md)|[![](../images/week12/Skin_electronics.jpg){ width=300 } <br>Skin Electronics](./week12.md)|
-|[![](../images/week13/Steampunk_jaquard.png){ width=300 } <br>Implications and applications](./week13.md)|
+|[![](./images/week01/IDE1.png){ width=300 } <br>Project&nbsp;management](./assignments/week01.md)|[![](./images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./assignments/week02.md)|
+|[![](./images/week03/Recicling.jpg){ width=300 } <br>Circular Fashion](./assignments/week03.md)|[![](./images/week04/Designer.jpeg){ width=300 } <br>BioChromes](./assignments/week04.md)|
+|[![](./images/week05/Etextileworkshop.jpeg){ width=300 } <br>E-textiles](./assignments/week05.md)|[![](./images/Week06/Parametric_design.png){ width=300 } <br>Computational Couture ](./assignments/week06.md)|
+|[![](./images/week07/Biomaterial.jpeg){ width=300 } <br>BioFabricating Materials ](./assignments/week07.md)|[![](./images/week08/Soft_Robot.jpg){ width=300 } <br>Soft robotics](./assignments/week08.md)|
+|[![](./images/week09/IRIS-VAN-HERPEN-SQ-TEXINTEL.jpg){ width=300 } <br>Wearables](./assignments/week09.md)|[![](./images/week10/Scafold2.png){ width=300 } <br>Textile Scaffold ](./assignments/week10.md)|
+|[![](./images/week11/Machine.png){ width=300 } <br>Open Source Hardware](./assignments/week11.md)|[![](./images/week12/Skin_electronics.jpg){ width=300 } <br>Skin Electronics](./assignments/week12.md)|
+|[![](./images/week13/Steampunk_jaquard.png){ width=300 } <br>Implications and applications](./assignments/week13.md)|
+
+
+
+
+ 
+ 
+## Previous work
+
+## Illuminated Fabric
+
+I love making stuff. In my work, all the things we do are related to design and manufacture prototypes, mainly for the industry and for SMEs. 
+Here are a couple projects I love. 
+
+
+The project is a piece of fabric ideated and designed to have the light embeded **INSIDE** the fabric. 
+
+In the presentation you can see how it was made
+
+![Illuminated fabric](./images/week01/Illuminated1.png)
+
+<iframe src="https://docs.google.com/presentation/d/1Z9WlzaeH0u0pE5jXohT-_c2DDTsLZ9Zq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://class.textile-academy.org/2025/aristarco-cortes/">Illuminated Fabric</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.behance.net/Aristarco_Dixit">Aristarco A. Cortés</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+
+
+### Digital ceramics
+
+Ceramics has become one of my obsessions. I have developed several techniques to improve repeatability and design in the ceramics-making process.
+
+![Digital Ceramics](./images/week01/Oloid2.jpg)
+
+
+In the presentation you can see some of the things we have made at Fab Lab Puebla
+
+
+<iframe src="https://docs.google.com/presentation/d/1_r7GJQxA9uHbktKLymN4opAsvaBgVGQA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+??? info "More things"
+
+	If you like to see some more worke I have done please visit my [Fab Academy site](https://fabacademy.org/archives/2015/sa/students/cortes.aristarco/index.html)
+
+# So, I invite you to follow my journey
+
+
+<p style="clear: both;"></p>
+<br/> 
