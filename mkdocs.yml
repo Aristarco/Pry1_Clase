@@ -1,7 +1,83 @@
-site_name: Proyectos_1
+
 site_url: https://aristarco.github.io/Proyectos1/
 repo_url: https://github.com/aristarco/Proyectos1
 theme:
   name: material
 nav:
   - Inicio: index.md
+
+  # Replace the text below to customize your site
+site_name: Proyectos_1
+site_description: Clase de Proyectos 1 UIA Puebla
+site_author: aristarco
+copyright: Copyright 2024 Aristarco Cortés - Creactive Commons Attribution Non-commercial
+
+site_url: https://aristarco.github.io/Proyectos1/
+repo_url: https://github.com/aristarco/Proyectos1
+
+site_url: https://class.textile-academy.org/2025/aristarco-cortes/
+repo_url: https://gitlab.fabcloud.org/academany/fabricademy/2025/students/aristarco-cortes
+repo_name: fabricademy/2025/aristarco-cortes
+
+extra:
+  social:
+    # Change to your own social media or remove line to hide. 
+    # For more social icons ideas at https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/aristarco_dixit
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/aristarco.cortes
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/aristarco.dixit
+
+theme:
+  # The name of the theme, needs to match your requirements.txt file
+  name: material
+  # Material theme options:
+  palette:
+    # try other colors from https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+    primary: teal
+    accent: deep purple
+  font:
+    # See available fonts from https://fonts.google.com/
+    text: Montserrat
+    code: Roboto Mono
+  #icon:
+    # Read about icons at https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/
+    # logo: icons/Aristarjos.png
+  logo: ./images/home/Aristarjos_ico.png
+    #logo: material/library
+    #repo: material/gitlab
+  features:
+    - navigation.tabs
+    - navigation.footer
+  favicon: ./images/home/Aristarjos_ico.png
+# Read more here https://squidfunk.github.io/mkdocs-material/customization/#additional-css 
+# extra_css:
+#   - stylesheets/extra.css
+
+# extra_javascript:
+#   - 'javascript/extra.js'
+
+plugins:
+  - search
+  - git-revision-date:
+      enabled_if_env: CI
+
+# See more extensions at https://squidfunk.github.io/mkdocs-material/reference/
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  # https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - pymdownx.details
+  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.superfences
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
