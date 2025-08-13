@@ -1,0 +1,7 @@
+site_name: Proyectos_1
+site_url: https://aristarco.github.io/Proyectos1/
+repo_url: https://github.com/aristarco/Proyectos1
+theme:
+  name: material
+nav:
+  - Inicio: index.md
