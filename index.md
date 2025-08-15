@@ -6,7 +6,6 @@
 ## Quién soy 
 
 Aristarco es ingeniero mecánico electricista con estudios de administración y aspirante a polímata. Tiene experiencia laboral de más de 30 años en industria, gobierno y universidades. Es emprendedor, enamorado de los procesos de fabricación, egresado del Fab Academy y fanático de construir cosas. Fue director del Instituto de Diseño e Innovación Tecnológica IDIT, casa del Fab Lab Puebla, el espacio maker más grande del mundo. Hoy es responsable de impulsar proyectos y emprendimiento en el IDIT.
-Hi, I am Aristarco and this is my journey through the 2024/25 Fabricademy universe. I am participating at Fab Lab Puebla in Mexico, the largest makerspace in the world inside the Design, Innovation, and Tech Institute at Iberoamericana University in the beautiful city of Puebla, Mexico.
 
 
 
@@ -16,7 +15,7 @@ Hi, I am Aristarco and this is my journey through the 2024/25 Fabricademy univer
 
 |||
 |---|---|
-|[![](./images/week01/IDE1.png){ width=300 } <br>Project&nbsp;management](./assignments/week01.md)|[![](./images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./assignments/week02.md)|
+|[![](./images/week_1-jpg){ width=300 } <br>Project&nbsp;management](./assignments/week01.md)|[![](./images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./assignments/week02.md)|
 |[![](./images/week03/Recicling.jpg){ width=300 } <br>Circular Fashion](./assignments/week03.md)|[![](./images/week04/Designer.jpeg){ width=300 } <br>BioChromes](./assignments/week04.md)|
 |[![](./images/week05/Etextileworkshop.jpeg){ width=300 } <br>E-textiles](./assignments/week05.md)|[![](./images/Week06/Parametric_design.png){ width=300 } <br>Computational Couture ](./assignments/week06.md)|
 |[![](./images/week07/Biomaterial.jpeg){ width=300 } <br>BioFabricating Materials ](./assignments/week07.md)|[![](./images/week08/Soft_Robot.jpg){ width=300 } <br>Soft robotics](./assignments/week08.md)|
@@ -29,7 +28,7 @@ Hi, I am Aristarco and this is my journey through the 2024/25 Fabricademy univer
 
  
  
-## Previous work
+## Some Previous work
 
 ## Illuminated Fabric
 
