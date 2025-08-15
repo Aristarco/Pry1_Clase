@@ -17,7 +17,7 @@ Aristarco es ingeniero mecánico electricista con estudios de administración y 
 
 |||
 |---|---|
-|[![](./images/week_1.jpg){ width=300 } <br>Project&nbsp;management](./assignments/week01.md)|[![](./images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./assignments/week02.md)|
+|[![](../images/week_1.jpg){ width=300 } <br>Project&nbsp;management](./assignments/week01.md)|[![](./images/week02/Voronoi_Sandy.png){ width=300 } <br>Digital bodies](./assignments/week02.md)|
 |[![](./images/week03/Recicling.jpg){ width=300 } <br>Circular Fashion](./assignments/week03.md)|[![](./images/week04/Designer.jpeg){ width=300 } <br>BioChromes](./assignments/week04.md)|
 |[![](./images/week05/Etextileworkshop.jpeg){ width=300 } <br>E-textiles](./assignments/week05.md)|[![](./images/Week06/Parametric_design.png){ width=300 } <br>Computational Couture ](./assignments/week06.md)|
 |[![](./images/week07/Biomaterial.jpeg){ width=300 } <br>BioFabricating Materials ](./assignments/week07.md)|[![](./images/week08/Soft_Robot.jpg){ width=300 } <br>Soft robotics](./assignments/week08.md)|
