@@ -24,6 +24,8 @@ extra:
 theme:
   # The name of the theme, needs to match your requirements.txt file
   name: material
+  nav:
+  - Inicio: index.md
   # Material theme options:
   palette:
     # try other colors from https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
@@ -42,7 +44,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.footer
-  favicon: ./images/home/Aristarjos_ico.png
+#  favicon: ./images/home/Aristarjos_ico.png
 # Read more here https://squidfunk.github.io/mkdocs-material/customization/#additional-css 
 # extra_css:
 #   - stylesheets/extra.css
